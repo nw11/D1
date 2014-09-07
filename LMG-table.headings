@@ -132,3 +132,14 @@ dCtTcells_PCR_VALIDATION
 relative_expression_T_cell_PCR_VALIDATION
 BoverT_PCR_VALIDATION
 log2BoverT_PCR_VALIDATION
+type_HMC_GENE
+start_HMC_GENE
+stop_HMC_GENE
+pmdid_HMC_GENE
+num_cpg_HMC_GENE
+chr_HMC_GENE
+gene_overlap_bp_HMC_GENE
+pmd_len_bp_HMC_GENE
+gene_size_HMC_GENE
+pct_overlap_HMC_GENE
+num_in_gene _HMC_GENE
