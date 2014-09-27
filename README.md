@@ -10,4 +10,4 @@ up the terminal/console and use the command:
  cut -f 3,45 LMG-table.tsv > LMR-table-cols.3.45.tsv
 ```
 
-Now you have just those columns in a table ( LMR-table-rows.12.15.tsv )
+Now you have just those columns in a table ( LMR-table-rows.3.45.tsv )
