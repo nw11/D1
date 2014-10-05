@@ -158,4 +158,4 @@ ERCC_ID_subgroup_ERCC92SPIKES
 concentration_in_Mix1_(attomoles/ul)_ERCC92SPIKES
 concentration_in_Mix_2_(attomoles/ul)_ERCC92SPIKES
 expected_fold-change_ratio_ERCC92SPIKES
-log2(Mix 1/Mix 2)_ERCC92SPIKES
+log2(Mix1/Mix2)_ERCC92SPIKES
