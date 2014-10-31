@@ -161,7 +161,7 @@ expected_fold-change_ratio_ERCC92SPIKES
 log2(Mix1/Mix2)_ERCC92SPIKES
 down_pr_ISO_TRANS_NT_NB
 up_pr_ISO_TRANS_NT_NB
-median_log2_fold_ISO_TRANS_NT_NB
+median_log2_fold_change_ISO_TRANS_NT_NB
 gene_name_ISO_SPLICE_NT_NB
 max_change_prob_ISO_SPLICE_NT_NB
 max_change_transcript_ISO_SPLICE_NT_NB
